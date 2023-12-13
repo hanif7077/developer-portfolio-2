@@ -132,3 +132,56 @@ section{
 .skill-description{
     color: #757575;
 }
+.reasumi-contant{
+    display: flex;
+    gap: 24px;
+}
+.reasumi-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.reasumi .title{
+  color: #474747;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.reasumi .sub-title{
+   color: #757575;
+   font-size: 20px;
+   font-style: normal;
+   font-weight: 600;
+   margin-bottom: 20px;
+   
+}
+.reasumi .description{
+   color: #757575
+}
+.resumi-button{
+    margin-top: 50px;
+    text-align: center;
+}
+/* contact section */
+.contace{
+    display: flex;
+    gap: 100px;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
+
+.contace{
+    text-decoration: none;
+}
+.contace .section-title{
+    text-align: left;
+}
+.contace input[type="text"], input[type="email"],textarea{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+}
+input{
+
+}
